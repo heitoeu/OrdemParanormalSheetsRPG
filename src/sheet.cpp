@@ -13,3 +13,8 @@ void Sheet::setStatus(int status)
 {
     this->status = status;
 }
+
+void Sheet::printSkills()
+{
+    // Arrumar os prints das skills mostrando todas
+}

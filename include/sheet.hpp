@@ -1,5 +1,7 @@
 #ifndef SHEET_HPP
 #define SHEET_HPP
+#include <map>
+#include "skill.hpp"
 #include "dice.hpp"
 
 struct Atributes
@@ -19,8 +21,10 @@ protected:
     Dice dice;
 
 public:
-    virtual int rollAtribute(char atribute) = 0;
+    std::map<std::string, Skill> skills;
+    virtual int rollAtribute(std::string atribute) = 0;
     virtual int rollSkills(std::string skill) = 0;
+    virtual void printSkills();
     void setStatus(int status);
 };
 

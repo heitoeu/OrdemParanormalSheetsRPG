@@ -6,10 +6,6 @@ std::vector<int> Dice::rollDice(int type, int quantity)
 {
     // Vector com as rolagens
     std::vector<int> results;
-
-    // Obter tempo atual
-    srand(time(nullptr));
-
     // Mostrar as rolagens
     std::stringstream aux;
     aux << "[";
