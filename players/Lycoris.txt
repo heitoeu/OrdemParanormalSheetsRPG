@@ -1,0 +1,9 @@
+Nome: Lycoris
+Jogador: Heitor
+Origem: Vitima
+Classe: Combatente
+NEX: 10
+FOR 3 AGI 2 INT 1 VIG 2 PRE 1
+Pericias:
+Acrobacia [AGI] (Treinado)
+Outro [PRE] (Treinado)

@@ -1,0 +1,56 @@
+Acrobacia [AGI]
+"Voce consegue fazer proezas acrobaticas"
+Adestramento [PRE]
+"Voce sabe lidar com animais"
+Artes [PRE]
+"Voce sabe se expressar com diversas formas de arte, como musica, danca, escrita, pintura, atuacao e outras"
+Atletismo [FOR]
+"Voce pode realizar facanhas atleticas"
+Atualidades [INT]
+"Voce e um conhecedor de assuntos gerais, como politica, esporte e entretenimento e pode responder duvidas relaticas a esses assuntos"
+Ciencias [INT]
+"Voce estudou diversos campos cientificos. como matematica, fisica, quimica e biologia e pode responder duvidas quanto a esses assuntos"
+Crime [AGI]
+"Voce sabe exercer atividades ilícitas"
+Diplomacia [PRE]
+"Voce sabe convencer as pessoas com labia e argumentacao"
+Enganacao [PRE]
+"Voce manipula pesosas com blefes e trapacas"
+Fortitude [VIG]
+"Descricao"
+Furtividade [AGI]
+"Descricao"
+Iniciativa [AGI]
+"Descricao"
+Intimidacao [PRE]
+"Descricao"
+Intuicao [INT]
+"Descricao"
+Investigacao [INT]
+"Descricao"
+Luta [FOR]
+"Descricao"
+Medicina [INT]
+"Descricao"
+Ocultismo [INT]
+"Descricao"
+Percepcao [PRE]
+"Descricao"
+Pilotagem [AGI]
+"Descricao"
+Pontaria [AGI]
+"Descricao"
+Profissao [INT]
+"Descricao"
+Reflexos [AGI]
+"Descricao"
+Religiao [PRE]
+"Descricao"
+Sobrevivencia [INT]
+"Descricao"
+Tatica [INT]
+"Descricao"
+Tecnologia [INT]
+"Descricao"
+Vontade [PRE]
+"Descricao"

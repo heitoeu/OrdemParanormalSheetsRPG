@@ -45,5 +45,5 @@ void Skill::printSkill()
 {
     std::cout << skill_name << "[" << atribute_modifier << "]"
               << "    (+" << modifier << ")" << std::endl;
-    std::cout << "'" << description << "'" << std::endl;
+    std::cout << description << std::endl;
 }

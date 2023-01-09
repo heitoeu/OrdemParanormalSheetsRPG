@@ -1,6 +1,7 @@
 #ifndef SHEET_HPP
 #define SHEET_HPP
 #include <map>
+#include <fstream>
 #include "skill.hpp"
 #include "dice.hpp"
 
@@ -22,8 +23,9 @@ protected:
 
 public:
     std::map<std::string, Skill> skills;
-    virtual int rollAtribute(std::string atribute) = 0;
-    virtual int rollSkills(std::string skill) = 0;
+
+    virtual int rollAtribute(std::string atribute);
+    virtual int rollSkills(std::string skill);
     virtual void printSkills();
     void setStatus(int status);
 };
